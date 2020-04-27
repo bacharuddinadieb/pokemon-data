@@ -1,0 +1,29 @@
+{
+  "jumlah": 14,
+  "hasil": [
+    {
+      "nama": "national",
+      "deskripsi": "Entire National dex"
+    },
+    {
+      "nama": "kanto",
+      "deskripsi": "Red/Blue/Yellow Kanto dex"
+    },
+    {
+      "nama": "johto",
+      "deskripsi": "Gold/Silver/Crystal Johto dex—called the \"New\" Pokédex in-game"
+    },
+    {
+      "nama": "hoenn",
+      "deskripsi": "Ruby/Sapphire/Emerald Hoenn dex"
+    },
+    {
+      "nama": "sinnoh",
+      "deskripsi": "Diamond/Pearl Sinnoh dex"
+    },
+    {
+      "nama": "unova",
+      "deskripsi": "Black/White Unova dex"
+    }
+  ]
+}

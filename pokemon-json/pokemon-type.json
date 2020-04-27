@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "normal",
+    "warna": "#A8AE98"
+  },
+  {
+    "id": 2,
+    "name": "fighting",
+    "warna": "#BE4C36"
+  },
+  {
+    "id": 3,
+    "name": "flying",
+    "warna": "#986EFF"
+  },
+  {
+    "id": 4,
+    "name": "poison",
+    "warna": "#B22198"
+  },
+  {
+    "id": 5,
+    "name": "ground",
+    "warna": "#D9C948"
+  },
+  {
+    "id": 6,
+    "name": "rock",
+    "warna": "#B7B560"
+  },
+  {
+    "id": 7,
+    "name": "bug",
+    "warna": "#9FCF08"
+  },
+  {
+    "id": 8,
+    "name": "ghost",
+    "warna": "#733BBD"
+  },
+  {
+    "id": 9,
+    "name": "steel",
+    "warna": "#ACA5BC"
+  },
+  {
+    "id": 10,
+    "name": "fire",
+    "warna": "#FF1500"
+  },
+  {
+    "id": 11,
+    "name": "water",
+    "warna": "#5573FF"
+  },
+  {
+    "id": 12,
+    "name": "grass",
+    "warna": "#5CE155"
+  },
+  {
+    "id": 13,
+    "name": "electric",
+    "warna": "#FBDC00"
+  },
+  {
+    "id": 14,
+    "name": "psychic",
+    "warna": "#FF0091"
+  },
+  {
+    "id": 15,
+    "name": "ice",
+    "warna": "#6CC2FF"
+  },
+  {
+    "id": 16,
+    "name": "dragon",
+    "warna": "#8C00F1"
+  },
+  {
+    "id": 17,
+    "name": "dark",
+    "warna": "#775641"
+  },
+  {
+    "id": 18,
+    "name": "fairy",
+    "warna": "#F86DED"
+  }
+]
