@@ -1,0 +1,320 @@
+[
+  {
+    "nama": "kanto",
+    "deskripsi": "Kanto was the first region to be introduced in the game series, featured in the Red, Blue and Yellow games along with the Generation III remakes and the Generation VII remakes. It is also accessible in the latter portion of Pokémon Gold, Silver, and Crystal after defeating the Elite Four.",
+    "kota": [
+      {
+        "nama": "Pallet Town",
+        "slogan": "A Pure White Beginning"
+      },
+      {
+        "nama": "Viridian City",
+        "slogan": "The City of Evergreen"
+      },
+      {
+        "nama": "Pewter City",
+        "slogan": "Between Rugged Mountains"
+      },
+      {
+        "nama": "Cerulean City",
+        "slogan": "The Floral Lagoon City"
+      },
+      {
+        "nama": "Vermilion City",
+        "slogan": "The Port of Exquisite Sunsets"
+      },
+      {
+        "nama": "Lavender Town",
+        "slogan": "The Noble Town"
+      },
+      {
+        "nama": "Celadon City",
+        "slogan": "City of the Rainbow's Colors"
+      },
+      {
+        "nama": "Fuchsia City",
+        "slogan": "Happening and Passing City"
+      },
+      {
+        "nama": "Saffron City",
+        "slogan": "Shining Big City"
+      },
+      {
+        "nama": "Cinnabar Island",
+        "slogan": "The Ravaged Town of the Past"
+      },
+      {
+        "nama": "Indigo Plateau",
+        "slogan": "The ultimate Goal of Trainers!"
+      }
+    ]
+  },
+  {
+    "nama": "johto",
+    "deskripsi": "Johto is the second region introduced in the main game series, being featured in the Gold, Silver and Crystal games along with the Generation IV remakes. Geographically, Johto is located to the west of the Kanto region.",
+    "kota": [
+      {
+        "nama": "New Bark Town",
+        "slogan": "Winds of a New Beginning"
+      },
+      {
+        "nama": "Cherrygrove City",
+        "slogan": "The City of Fragrant Flowers"
+      },
+      {
+        "nama": "Violet City",
+        "slogan": "The City of Nostalgic Scents"
+      },
+      {
+        "nama": "Azalea Town",
+        "slogan": "Living Happily with Pokémon"
+      },
+      {
+        "nama": "Goldenrod City",
+        "slogan": "A Happening Big City"
+      },
+      {
+        "nama": "Ecruteak City",
+        "slogan": "A Historical City"
+      },
+      {
+        "nama": "Olivine City",
+        "slogan": "The Port with Sea Breezes"
+      },
+      {
+        "nama": "Frontier Access",
+        "slogan": "none"
+      },
+      {
+        "nama": "Cianwood City",
+        "slogan": "A Port of Crashing Waves"
+      },
+      {
+        "nama": "Safari Zone Gate",
+        "slogan": "none"
+      },
+      {
+        "nama": "Mahogany Town",
+        "slogan": "Home of the Ninja"
+      },
+      {
+        "nama": "Blackthorn City",
+        "slogan": "A Quiet Mountain Retreat"
+      }
+    ]
+  },
+  {
+    "nama": "hoenn",
+    "deskripsi": "Hoenn is the featured region in the Generation III games, Pokémon Ruby, Sapphire and Emerald. Geographically, Hoenn is located to the southwest of Kanto and Johto.",
+    "kota": [
+      {
+        "nama": "Littleroot Town",
+        "slogan": "A town that can't be shaded any hue."
+      },
+      {
+        "nama": "Oldale Town",
+        "slogan": "Where things start off scarce."
+      },
+      {
+        "nama": "Petalburg City",
+        "slogan": "Where people mingle with nature."
+      },
+      {
+        "nama": "Rustboro City",
+        "slogan": "The city probing the integration of nature and science."
+      },
+      {
+        "nama": "Dewford Town",
+        "slogan": "A tiny island in the blue sea."
+      },
+      {
+        "nama": "Slateport City",
+        "slogan": "The port where people and POKéMON cross paths."
+      },
+      {
+        "nama": "Mauville City",
+        "slogan": "The bright and shiny city of fun!"
+      },
+      {
+        "nama": "Verdanturf Town",
+        "slogan": "The windswept highlands with the sweet fragrance of grass."
+      },
+      {
+        "nama": "Lavaridge Town",
+        "slogan": "An excellent place for relaxing!"
+      },
+      {
+        "nama": "Fallarbor Town",
+        "slogan": "A farm community with small gardens."
+      },
+      {
+        "nama": "Fortree City",
+        "slogan": "The treetop city that frolics with nature."
+      },
+      {
+        "nama": "Lilycove City",
+        "slogan": "Where the land ends and the sea begins."
+      },
+      {
+        "nama": "Mossdeep City",
+        "slogan": "Our slogan: Cherish POKéMON!"
+      },
+      {
+        "nama": "Sootopolis City",
+        "slogan": "The mystical city where history slumbers."
+      },
+      {
+        "nama": "Pacifidlog Town",
+        "slogan": "Where the morning sun smiles upon the waters."
+      },
+      {
+        "nama": "Ever Grande City",
+        "slogan": "The paradise of flowers, the sea, and Pokémon"
+      }
+    ]
+  },
+  {
+    "nama": "sinnoh",
+    "deskripsi": "Sinnoh is the region featured in the Generation IV games Pokémon Diamond, Pearl and Platinum. Sinnoh is located to the north of the Kanto region.",
+    "kota": [
+      {
+        "nama": "Twinleaf Town",
+        "slogan": "Fresh and Free!"
+      },
+      {
+        "nama": "Sandgem Town",
+        "slogan": "Town of Sand!"
+      },
+      {
+        "nama": "Jubilife City",
+        "slogan": "City of Joy"
+      },
+      {
+        "nama": "Oreburgh City",
+        "slogan": "City of Energy"
+      },
+      {
+        "nama": "Floaroma Town",
+        "slogan": "Vivid & Scented"
+      },
+      {
+        "nama": "Eterna City",
+        "slogan": "History Living"
+      },
+      {
+        "nama": "Hearthome City",
+        "slogan": "Warm & Kind"
+      },
+      {
+        "nama": "Solaceon Town",
+        "slogan": "Free of Worry!"
+      },
+      {
+        "nama": "Veilstone City",
+        "slogan": "Hewn from Rock"
+      },
+      {
+        "nama": "Pastoria City",
+        "slogan": "The Marsh City"
+      },
+      {
+        "nama": "Celestic Town",
+        "slogan": "The Past Lives"
+      },
+      {
+        "nama": "Canalave City",
+        "slogan": "Cargo Port"
+      },
+      {
+        "nama": "Snowpoint City",
+        "slogan": "City of Snow"
+      },
+      {
+        "nama": "Sunyshore City",
+        "slogan": "Solar Powered!"
+      },
+      {
+        "nama": "Pokémon League",
+        "slogan": "The Pinnacle of Trainerdom!"
+      }
+    ]
+  },
+  {
+    "nama": "unova",
+    "deskripsi": "Unova is the region featured in the Generation V games Pokémon Black and White. It is said that Unova is located very far away from the other regions, needing a boat to get there.",
+    "kota": [
+      {
+        "nama": "Nuvema Town",
+        "slogan": "The Start of Something Big"
+      },
+      {
+        "nama": "Accumula Town",
+        "slogan": "The Fast-Growing Town!"
+      },
+      {
+        "nama": "Striaton City",
+        "slogan": "Three Stand Together as One!"
+      },
+      {
+        "nama": "Nacrene City",
+        "slogan": "A Pearl of a Place"
+      },
+      {
+        "nama": "Castelia City",
+        "slogan": "A City of Grandeur"
+      },
+      {
+        "nama": "Nimbasa City",
+        "slogan": "Lit by the Flash of Lightning!"
+      },
+      {
+        "nama": "Anville Town",
+        "slogan": "Rolling Out the Steel Rails"
+      },
+      {
+        "nama": "Driftveil City",
+        "slogan": "A City of Billowing Sails"
+      },
+      {
+        "nama": "Mistralton City",
+        "slogan": "Strewn with Windblown Leaves"
+      },
+      {
+        "nama": "Icirrus City",
+        "slogan": "Sky Glittering with Flowers of Snow"
+      },
+      {
+        "nama": "Opelucid City",
+        "slogan": "Time's Dividing Line"
+      },
+      {
+        "nama": "Pokémon League",
+        "slogan": "The Pokémon League is every Trainer's greatest challenge!"
+      },
+      {
+        "nama": "Lacunosa Town",
+        "slogan": "Methodical and Orderly"
+      },
+      {
+        "nama": "Undella Town",
+        "slogan": "A Town of Rippling Waves"
+      },
+      {
+        "nama": "Black City",
+        "slogan": "Prosperous and Vibrant"
+      },
+      {
+        "nama": "White Forest",
+        "slogan": "People and Nature in Harmony"
+      },
+      {
+        "nama": "Aspertia City",
+        "slogan": "Blackberry Lily City"
+      },
+      {
+        "nama": "Virbank City",
+        "slogan": "None"
+      }
+    ]
+  }
+]
